@@ -27,7 +27,15 @@
 - [gitignore 파일](https://github.com/siyoungoh/proj-template/blob/master/.gitignore)
   - git이 추적할 필요가 없는 설정 파일 등. 예: 내 로컬 개발환경 외에 필요없는 불필요한 설정파일(venv, IDE설정), 공개되면 안되는 보안 파일
 - [샘플 프로젝트 보드](https://github.com/ohahohah/github-tutorial/projects/1) 를 참고해 내 프로젝트를 관리하세요.  
-   
+
+> *프로젝트 포트폴리오로 사용할 경우 아래 추가하면 상대가 파악하기 쉽습니다.*
+## 아키텍쳐
+
+## API 리스트
+
+## ERD   
+
+## 트러블슈팅
 
 
 ## Contribution
